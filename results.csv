@@ -1,0 +1,5 @@
+project,evidence_date,status,assertions,checks,repair_rounds,generation_seconds,wallclock_seconds
+CSV Field Explorer,2026-11-21,verified Chromium and WebKit,118,,2,3593.3513001068495,4298.217142
+Browser FPS,2026-11-21,verified Chromium and WebKit,224,36,3,,
+Gallery hub,2026-11-21,final qualification pending,,,,,
+Camaro builder,2026-11-21,testing,,,,,
