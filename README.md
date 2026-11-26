@@ -2,6 +2,8 @@
 
 RUNTIME tested the official Thinking Machines Lab Inkling 2 Mini checkpoint on one NVIDIA DGX Spark. This is the documentation companion to **Inkling 2 Mini Built These Apps Locally — What Actually Worked**.
 
+[Watch the episode](https://youtu.be/vrpj4JJn_Ok).
+
 ## Read the experiment
 
 - [Setup and exact model identity](SETUP.md)
